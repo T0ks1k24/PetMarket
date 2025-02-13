@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 Pro",
+      "description": "Смартфон з 6.1-дюймовим OLED-дисплеєм та процесором A17 Pro.",
+      "price": 1199,
+      "stockQuantity": 15,
+      "category": "Smartphones",
+      "brand": "Apple",
+      "imageUrl": "https://example.com/iphone15pro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "Флагманський смартфон з 200 МП камерою та S-Pen.",
+      "price": 1299,
+      "stockQuantity": 10,
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "imageUrl": "https://example.com/galaxyS23Ultra.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "description": "Безпровідні навушники з активним шумозаглушенням.",
+      "price": 399,
+      "stockQuantity": 25,
+      "category": "Headphones",
+      "brand": "Sony",
+      "imageUrl": "https://example.com/wh1000xm5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Air M2",
+      "description": "Тонкий та легкий ноутбук з чіпом M2.",
+      "price": 1099,
+      "stockQuantity": 8,
+      "category": "Laptops",
+      "brand": "Apple",
+      "imageUrl": "https://example.com/macbookairm2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ASUS ROG Strix G16",
+      "description": "Ігровий ноутбук з RTX 4070 та 240 Гц дисплеєм.",
+      "price": 1799,
+      "stockQuantity": 5,
+      "category": "Laptops",
+      "brand": "ASUS",
+      "imageUrl": "https://example.com/rogstrixg16.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dell XPS 15",
+      "description": "Потужний ультрабук з 4K OLED дисплеєм.",
+      "price": 1899,
+      "stockQuantity": 7,
+      "category": "Laptops",
+      "brand": "Dell",
+      "imageUrl": "https://example.com/dellxps15.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Logitech MX Master 3S",
+      "description": "Ергономічна бездротова мишка з точним сенсором.",
+      "price": 99,
+      "stockQuantity": 20,
+      "category": "Accessories",
+      "brand": "Logitech",
+      "imageUrl": "https://example.com/mxmaster3s.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Samsung 990 Pro SSD 2TB",
+      "description": "Швидкий NVMe SSD для високої продуктивності.",
+      "price": 229,
+      "stockQuantity": 30,
+      "category": "Storage",
+      "brand": "Samsung",
+      "imageUrl": "https://example.com/samsung990pro.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Razer BlackWidow V4",
+      "description": "Механічна клавіатура з RGB-підсвіткою.",
+      "price": 159,
+      "stockQuantity": 15,
+      "category": "Keyboards",
+      "brand": "Razer",
+      "imageUrl": "https://example.com/blackwidowv4.jpg"
+    },
+    {
+      "id": 10,
+      "name": "HyperX Cloud Alpha",
+      "description": "Геймерські навушники з якісним звуком.",
+      "price": 99,
+      "stockQuantity": 18,
+      "category": "Headphones",
+      "brand": "HyperX",
+      "imageUrl": "https://example.com/cloudalpha.jpg"
+    }
+]
