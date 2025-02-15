@@ -1,3 +1,4 @@
+import Card from "../../components/Card";
 import styles from "../../styles/store.module.scss";
 
 export default function Store() {
@@ -6,6 +7,7 @@ export default function Store() {
             <div>
                 <h1>Store</h1>
                 <p>Тут ви знайдете великий вибір товарів для ваших улюбленців.</p>
+                <Card/>
             </div>
         </main>
     );

@@ -1,3 +1,85 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/components/Card.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Card_card__4rRTS {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+  max-width: 250px;
+  cursor: pointer;
+}
+.Card_card__4rRTS:hover {
+  transform: translateY(-5px);
+}
+
+.Card_discountTag__s_X0r {
+  position: absolute;
+  background: #ff3e6c;
+  color: white;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+  top: 10px;
+  left: 10px;
+}
+
+.Card_productThumb__Xug6M {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.Card_productInfo__be0qe {
+  padding: 10px 0;
+}
+
+.Card_productBrand___bRzW {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Card_productDescription__UAaoM {
+  font-size: 14px;
+  color: #666;
+  margin: 5px 0;
+}
+
+.Card_priceContainer__3dnse {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.Card_price__XBDSd {
+  font-size: 18px;
+  font-weight: bold;
+  color: #28a745;
+}
+
+.Card_actualPrice__Xx92p {
+  font-size: 14px;
+  color: #999;
+  text-decoration: line-through;
+}
+
+.Card_cardBtn__BqXJs {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.Card_cardBtn__BqXJs:hover {
+  background: #0056b3;
+}
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/store.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/

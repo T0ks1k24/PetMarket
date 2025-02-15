@@ -1,12 +1,325 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding\\GitProject\\PetMarket\\Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:services\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\data\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:data\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\data\\models\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:data\\models\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\data\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:data\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\PetGameStore\\Backend\\GameStore\\Services\\GameService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\data\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:data\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|d:\\coding\\gitproject\\petmarket\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{269B5DB4-7985-41B7-A1AF-1343C58CDADA}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:22:39.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:17:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:15:54.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\ICategoryService.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:15:09.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:52:41.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:48:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:33:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:47:30.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "Controllers\\ProductController.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:32:18.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\Models\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\CategoryEntity.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\Models\\CategoryEntity.cs",
+              "RelativeToolTip": "Data\\Models\\CategoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:30:55.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\Models\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\ProductEntity.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\Models\\ProductEntity.cs",
+              "RelativeToolTip": "Data\\Models\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:30:45.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\Coding\\PetGameStore\\Backend\\GameStore\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\PetGameStore\\Backend\\GameStore\\Services\\GameService.cs",
+              "ToolTip": "D:\\Coding\\PetGameStore\\Backend\\GameStore\\Services\\GameService.cs",
+              "RelativeToolTip": "..\\..\\..\\PetGameStore\\Backend\\GameStore\\Services\\GameService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:08:17.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:41:21.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:29:44.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Data\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Data\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Data\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:54:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IProductService.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:52:53.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:28:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\GitProject\\PetMarket\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\GitProject\\PetMarket\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T16:26:57.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

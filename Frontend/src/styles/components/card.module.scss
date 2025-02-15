@@ -1,0 +1,81 @@
+.card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+    max-width: 250px;
+    cursor: pointer;
+
+    &:hover {
+        transform: translateY(-5px);
+    }
+}
+
+.discountTag {
+    position: absolute;
+    background: #ff3e6c;
+    color: white;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+    top: 10px;
+    left: 10px;
+}
+
+.productThumb {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.productInfo {
+    padding: 10px 0;
+}
+
+.productBrand {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.productDescription {
+    font-size: 14px;
+    color: #666;
+    margin: 5px 0;
+}
+
+.priceContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.actualPrice {
+    font-size: 14px;
+    color: #999;
+    text-decoration: line-through;
+}
+
+.cardBtn {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+
+    &:hover {
+        background: #0056b3;
+    }
+}
