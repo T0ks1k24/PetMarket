@@ -1,9 +1,4 @@
 node_modules/
 bin/
 obj/
-.env
-.vscode/
 .vs/
-.dockerignore
-docker-compose.override.yml
-**/docker-compose*.yml
