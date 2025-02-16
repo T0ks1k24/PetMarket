@@ -1,16 +1,42 @@
+$primary-color: #2a7c3d;
+$dark-color: #303030;
+$text-color: #ffffff;
+$background-color: #3d3d3d;
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
 
-    li {
-        // background-color: aqua;
-        padding: 10px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        p {
-            font-size: 20px;
-        }
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: $background-color;
+    color: $text-color;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+button {
+    background-color: $primary-color;
+    color: $text-color;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: lighten($primary-color, 10%);
     }
-   
-
 }

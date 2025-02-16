@@ -1,18 +1,48 @@
+$primary-color: #2a7c3d; // Глибокий зелений
+$dark-color: #1a1a1a; // Темний фон
+$text-color: #ffffff; // Білий текст
+$link-hover: #3cb371; // Світліший зелений
+
 .header {
+    background-color: $dark-color;
     display: flex;
-    justify-content: space-around;
-    background-color: #333;
-    padding: 20px;
-  }
-  
-  .link {
-    color: #fff;
-    text-decoration: none;
-    font-size: 18px;
-    transition: color 0.3s ease;
-  }
-  
-  .link:hover {
-    color: #ffcc00;
-  }
-  
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    border-bottom: 3px solid $primary-color;
+}
+
+.logo {
+    padding-left: 250px;
+    font-size: 2rem;
+    font-weight: bold;
+    
+    .link {
+        color: $primary-color;
+        text-decoration: none;
+        transition: color 0.3s ease;
+
+        &:hover {
+            color: $link-hover;
+        }
+    }
+}
+
+.navbar {
+    padding-right: 250px;
+    display: flex;
+    gap: 20px;
+    
+    .link {
+        color: $text-color;
+        font-size: 1.4rem;
+        text-decoration: none;
+        padding: 5px 10px;
+        transition: color 0.3s ease, transform 0.2s ease;
+
+        &:hover {
+            color: $link-hover;
+            transform: scale(1.1);
+        }
+    }
+}

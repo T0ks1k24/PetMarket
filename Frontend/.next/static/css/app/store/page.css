@@ -1,99 +1,110 @@
 /*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/components/Card.module.scss ***!
   \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
 .Card_card__4rRTS {
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-  padding: 16px;
-  text-align: center;
-  transition: transform 0.2s ease-in-out;
-  max-width: 250px;
-  cursor: pointer;
-}
-.Card_card__4rRTS:hover {
-  transform: translateY(-5px);
+  background-color: #2c6e49; /* Темно-зелений фон */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
 }
 
-.Card_discountTag__s_X0r {
-  position: absolute;
-  background: #ff3e6c;
-  color: white;
-  padding: 5px 10px;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 5px;
-  top: 10px;
-  left: 10px;
+.Card_card__4rRTS:hover {
+  transform: scale(1.05);
+}
+
+.Card_cardLink__pj6nL {
+  text-decoration: none;
+  display: block;
+  color: #fff; /* Текст білий */
 }
 
 .Card_productThumb__Xug6M {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.Card_productInfo__be0qe {
-  padding: 10px 0;
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  display: block;
 }
 
 .Card_productBrand___bRzW {
-  font-size: 18px;
+  font-size: 1rem;
   font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
 }
 
-.Card_productDescription__UAaoM {
-  font-size: 14px;
-  color: #666;
-  margin: 5px 0;
+.Card_productInfo__be0qe {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .Card_priceContainer__3dnse {
   display: flex;
-  justify-content: center;
   align-items: center;
-  gap: 8px;
 }
 
 .Card_price__XBDSd {
-  font-size: 18px;
+  padding-left: 10px;
+  font-size: 1.2rem;
   font-weight: bold;
-  color: #28a745;
-}
-
-.Card_actualPrice__Xx92p {
-  font-size: 14px;
-  color: #999;
-  text-decoration: line-through;
+  color: #fff;
 }
 
 .Card_cardBtn__BqXJs {
-  margin-top: 10px;
-  padding: 8px 16px;
-  background: #007bff;
-  color: white;
+  background-color: #fff;
+  color: #2c6e49; /* Темно-зелений колір для кнопки */
   border: none;
+  padding: 8px 12px;
+  font-size: 1rem;
   border-radius: 5px;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background-color 0.3s ease;
 }
+
 .Card_cardBtn__BqXJs:hover {
-  background: #0056b3;
+  background-color: #d6e8d7; /* Світло-зелений ефект при наведенні */
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/components/CardList.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.CardList_cardList__Q7NpL {
+  border-radius: 50px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+  gap: 20px;
+  padding: 20px;
+  justify-items: center;
+  background-color: #838383;
+}
+
+.CardList_cardList__Q7NpL .CardList_card__iY02w {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.CardList_cardList__Q7NpL .CardList_card__iY02w:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/store.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 .store_store__LuLbm {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
+  background-color: #2c6e49;
 }
 
 .store_store__LuLbm h1 {
   font-size: 2rem;
-  color: #333;
+  color: #ffffff;
 }
 
 .store_store__LuLbm p {
   font-size: 1.2rem;
-  color: #666;
+  color: #ffffff;
 }

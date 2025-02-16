@@ -6,32 +6,78 @@
   padding: 0;
   box-sizing: border-box;
 }
-* li {
-  padding: 10px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #3d3d3d;
+  color: #ffffff;
+  line-height: 1.6;
 }
-* li p {
-  font-size: 20px;
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+button {
+  background-color: #2a7c3d;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+button:hover {
+  background-color: rgb(54.9036144578, 162.0963855422, 79.7409638554);
 }
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/components/header.module.scss ***!
   \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 .header_header__n1RHp {
+  background-color: #1a1a1a;
   display: flex;
-  justify-content: space-around;
-  background-color: #333;
-  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  border-bottom: 3px solid #2a7c3d;
 }
 
-.header_link__0Bsb4 {
-  color: #fff;
+.header_logo__Uug_H {
+  padding-left: 250px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.header_logo__Uug_H .header_link__0Bsb4 {
+  color: #2a7c3d;
   text-decoration: none;
-  font-size: 18px;
   transition: color 0.3s ease;
 }
+.header_logo__Uug_H .header_link__0Bsb4:hover {
+  color: #3cb371;
+}
 
-.header_link__0Bsb4:hover {
-  color: #ffcc00;
+.header_navbar__VX0RW {
+  padding-right: 250px;
+  display: flex;
+  gap: 20px;
+}
+.header_navbar__VX0RW .header_link__0Bsb4 {
+  color: #ffffff;
+  font-size: 1.4rem;
+  text-decoration: none;
+  padding: 5px 10px;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+.header_navbar__VX0RW .header_link__0Bsb4:hover {
+  color: #3cb371;
+  transform: scale(1.1);
 }
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[7].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[7].use[5]!./src/styles/components/footer.module.scss ***!

@@ -13,12 +13,12 @@
 
 .home_header__qIp_p h1 {
   font-size: 2rem;
-  color: #333;
+  color: #fdfdfd;
 }
 
 .home_header__qIp_p p {
   font-size: 1.2rem;
-  color: #000000;
+  color: #ffffff;
 }
 
 .home_section___cIeQ {
@@ -33,7 +33,7 @@
 }
 
 .home_article__fu4Lw {
-  background-color: #2c5377;
+  background-color: #797979;
   padding: 20px;
   border-radius: 8px;
 }
@@ -49,7 +49,7 @@
 }
 
 .home_article__fu4Lw a {
-  color: #000000;
+  color: #0289ff;
   text-decoration: none;
   margin-left: 85%;
   padding: 10px;

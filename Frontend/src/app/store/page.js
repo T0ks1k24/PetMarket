@@ -1,4 +1,4 @@
-import Card from "../../components/Card";
+import CardList from "../../components/CardList";
 import styles from "../../styles/store.module.scss";
 
 export default function Store() {
@@ -6,9 +6,9 @@ export default function Store() {
         <main className={styles.store}>
             <div>
                 <h1>Store</h1>
-                <p>Тут ви знайдете великий вибір товарів для ваших улюбленців.</p>
-                <Card/>
+                <h2>Тут ви знайдете великий вибір товарів для ваших улюбленців.</h2>
             </div>
+            <CardList />
         </main>
     );
 }
